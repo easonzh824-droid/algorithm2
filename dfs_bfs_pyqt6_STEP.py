@@ -35,7 +35,7 @@ CELL = 42
 
 C_EMPTY    = QColor("#F1F5F9")
 C_WALL     = QColor("#334155")
-C_START    = QColor("#22C55E")
+C_START    = QColor("#C52271")
 C_GOAL     = QColor("#EF4444")
 C_VISITED  = QColor("#BAE6FD")
 C_FRONTIER = QColor("#FCD34D")
@@ -47,7 +47,7 @@ C_GRID_LINE= QColor("#E2E8F0")
 
 def fmt(node):
     return f"({node[0]},{node[1]})"
-
+# hello
 
 # =========================================================
 #  迷宮模型（固定地圖）
