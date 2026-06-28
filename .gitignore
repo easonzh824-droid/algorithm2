@@ -45,3 +45,6 @@ desktop.ini
 .env
 .env.*
 !.env.example
+key.txt
+note.txt
+note2.txt
