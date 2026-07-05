@@ -41,7 +41,7 @@ C_VISITED  = QColor("#BAE6FD")
 C_FRONTIER = QColor("#FCD34D")
 C_CURRENT  = QColor("#FB923C")
 C_PATH     = QColor("#FACC15")
-C_PANEL_BG = QColor("#FFFFFF")
+C_PANEL_BG = QColor("#1AF224")
 C_GRID_LINE= QColor("#E2E8F0")
 
 
